@@ -5,6 +5,7 @@ applications that harness the power of LLMs and vector databases with little or 
 
 ### Links
 
+* [Website](https://langstream.ai)
 * [Docs](https://docs.langstream.ai)
 * [Slack channel](https://join.slack.com/t/langstream/shared_invite/zt-21leloc9c-lNaGLdiecHuWU5N31L2AeQ)
 * [VS Code extension](https://marketplace.visualstudio.com/items?itemName=DataStax.langstream)
